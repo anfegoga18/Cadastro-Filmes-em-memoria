@@ -1,0 +1,16 @@
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\bin\Debug\net5.0\SoundTrackFilm.exe
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\bin\Debug\net5.0\SoundTrackFilm.deps.json
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\bin\Debug\net5.0\SoundTrackFilm.runtimeconfig.json
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\bin\Debug\net5.0\SoundTrackFilm.runtimeconfig.dev.json
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\bin\Debug\net5.0\SoundTrackFilm.dll
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\bin\Debug\net5.0\ref\SoundTrackFilm.dll
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\bin\Debug\net5.0\SoundTrackFilm.pdb
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\obj\Debug\net5.0\SoundTrackFilm.csproj.AssemblyReference.cache
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\obj\Debug\net5.0\SoundTrackFilm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\obj\Debug\net5.0\SoundTrackFilm.AssemblyInfoInputs.cache
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\obj\Debug\net5.0\SoundTrackFilm.AssemblyInfo.cs
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\obj\Debug\net5.0\SoundTrackFilm.csproj.CoreCompileInputs.cache
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\obj\Debug\net5.0\SoundTrackFilm.dll
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\obj\Debug\net5.0\ref\SoundTrackFilm.dll
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\obj\Debug\net5.0\SoundTrackFilm.pdb
+C:\Git\DigitalInnovationOne\Take\SeriesNet-D1\SoundTrackFilm\obj\Debug\net5.0\SoundTrackFilm.genruntimeconfig.cache
